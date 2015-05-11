@@ -1,0 +1,12 @@
+C:\Users\Adrian\Documents\GitHub\CPF\SPack_MKII\SPack_MKII\bin\Release\SPack_MKII.exe.config
+C:\Users\Adrian\Documents\GitHub\CPF\SPack_MKII\SPack_MKII\bin\Release\SPack_MKII.exe
+C:\Users\Adrian\Documents\GitHub\CPF\SPack_MKII\SPack_MKII\bin\Release\SPack_MKII.pdb
+C:\Users\Adrian\Documents\GitHub\CPF\SPack_MKII\SPack_MKII\obj\Release\MainWindow.baml
+C:\Users\Adrian\Documents\GitHub\CPF\SPack_MKII\SPack_MKII\obj\Release\MainWindow.g.cs
+C:\Users\Adrian\Documents\GitHub\CPF\SPack_MKII\SPack_MKII\obj\Release\App.g.cs
+C:\Users\Adrian\Documents\GitHub\CPF\SPack_MKII\SPack_MKII\obj\Release\SPack_MKII_MarkupCompile.cache
+C:\Users\Adrian\Documents\GitHub\CPF\SPack_MKII\SPack_MKII\obj\Release\SPack_MKII.g.resources
+C:\Users\Adrian\Documents\GitHub\CPF\SPack_MKII\SPack_MKII\obj\Release\SPack_MKII.Properties.Resources.resources
+C:\Users\Adrian\Documents\GitHub\CPF\SPack_MKII\SPack_MKII\obj\Release\SPack_MKII.csproj.GenerateResource.Cache
+C:\Users\Adrian\Documents\GitHub\CPF\SPack_MKII\SPack_MKII\obj\Release\SPack_MKII.exe
+C:\Users\Adrian\Documents\GitHub\CPF\SPack_MKII\SPack_MKII\obj\Release\SPack_MKII.pdb

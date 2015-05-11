@@ -1,0 +1,13 @@
+C:\Users\Adrian\Documents\GitHub\CPF\SPack_MKII\SPack_MKII\bin\Debug\SPack_MKII.exe.config
+C:\Users\Adrian\Documents\GitHub\CPF\SPack_MKII\SPack_MKII\bin\Debug\SPack_MKII.exe
+C:\Users\Adrian\Documents\GitHub\CPF\SPack_MKII\SPack_MKII\bin\Debug\SPack_MKII.pdb
+C:\Users\Adrian\Documents\GitHub\CPF\SPack_MKII\SPack_MKII\obj\Debug\SPack_MKII.csprojResolveAssemblyReference.cache
+C:\Users\Adrian\Documents\GitHub\CPF\SPack_MKII\SPack_MKII\obj\Debug\MainWindow.baml
+C:\Users\Adrian\Documents\GitHub\CPF\SPack_MKII\SPack_MKII\obj\Debug\MainWindow.g.cs
+C:\Users\Adrian\Documents\GitHub\CPF\SPack_MKII\SPack_MKII\obj\Debug\App.g.cs
+C:\Users\Adrian\Documents\GitHub\CPF\SPack_MKII\SPack_MKII\obj\Debug\SPack_MKII_MarkupCompile.cache
+C:\Users\Adrian\Documents\GitHub\CPF\SPack_MKII\SPack_MKII\obj\Debug\SPack_MKII.g.resources
+C:\Users\Adrian\Documents\GitHub\CPF\SPack_MKII\SPack_MKII\obj\Debug\SPack_MKII.Properties.Resources.resources
+C:\Users\Adrian\Documents\GitHub\CPF\SPack_MKII\SPack_MKII\obj\Debug\SPack_MKII.csproj.GenerateResource.Cache
+C:\Users\Adrian\Documents\GitHub\CPF\SPack_MKII\SPack_MKII\obj\Debug\SPack_MKII.exe
+C:\Users\Adrian\Documents\GitHub\CPF\SPack_MKII\SPack_MKII\obj\Debug\SPack_MKII.pdb
