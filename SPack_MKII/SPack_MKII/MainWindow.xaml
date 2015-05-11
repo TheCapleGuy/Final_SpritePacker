@@ -1,0 +1,41 @@
+﻿<Window x:Class="SPack_MKII.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="400" Width="1000">
+    <StackPanel HorizontalAlignment="Stretch" x:Name="PanelOne" Orientation="Vertical">
+        <Menu  x:Name="TopMenu" VerticalAlignment="Top" Width="{Binding ElementName=PanelOne,Path=ActualWidth}">
+            <MenuItem Header="_File">
+                <MenuItem Header="New" Click="Menu_New"/>
+                <MenuItem Header="Open" Click="Menu_Open"/>
+                <MenuItem Header="Save" Click="Menu_Save"/>
+                <MenuItem Header="Import" Click="Menu_Import"/>
+                <Separator />
+                <MenuItem Header="_Exit" Command="" Click="Menu_Exit"/>
+            </MenuItem>
+        </Menu>
+        <StackPanel Orientation="Horizontal">
+            <StackPanel x:Name="PanelTwo" Orientation="Vertical" Height="Auto" HorizontalAlignment="Left" OpacityMask="Black" Background="{DynamicResource {x:Static SystemColors.ControlDarkBrushKey}}">
+                <StackPanel Orientation="Horizontal">
+                    <Label>
+                        Max Width:
+                    </Label>
+                    <TextBox x:Name="MaxWidthBox" Text="800" TextChanged="MaxWidthBox_TextChanged"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" Width="196">
+                    <Button HorizontalAlignment="Left" VerticalAlignment="Top" Content="Browse" Height="28" Width="50" Click="Menu_Import"/>
+                    <TextBox x:Name="ImagePreviewName" VerticalAlignment="Top" Width="146" Height="22" />
+                </StackPanel>
+                <Image x:Name="ImagePreview" Width="200" Height="200" VerticalAlignment="Top"/>
+                <StackPanel Orientation="Horizontal">
+                    <Button x:Name="leftArrow" Width="100" Content="&lt;-" Height="25" VerticalAlignment="Top" HorizontalAlignment="Left" Click="leftArrow_Click"/>
+                    <Button x:Name="rightArrow" Content="->" Width="100" Height="25" VerticalAlignment="Top" HorizontalAlignment="Right" Click="rightArrow_Click"/>
+                </StackPanel>
+                <Button Content="Add To Canvas" x:Name="AddToCanvas" Width="200" Height="37" Click="AddToCanvas_Click"/>
+            </StackPanel>
+            <ScrollViewer HorizontalScrollBarVisibility="Auto">
+                <Canvas x:Name="canvasControl" Background="Gray" HorizontalAlignment="Left" VerticalAlignment="Top" ClipToBounds="True"/>
+            </ScrollViewer>
+        </StackPanel>
+           
+    </StackPanel>
+</Window>
